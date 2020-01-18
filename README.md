@@ -20,11 +20,13 @@ commit it
 git commit
 git commit -m 'comments'
 '''
-link ur github
+link ur github and push/pull it
 '''
 git remote
 git remote add origin http...
 git push -u origin master
+git push
+git pull
 '''
 
 put the name of the file u wannna ignore
