@@ -3,11 +3,17 @@ This is my first git
 
 ## basic git command
 initiate under a folder
-`git init`
+```
+git init
+```
 create file
-`touch <fiile>`
+```
+touch <fiile>
+```
 show status
-`git status`
+```
+git status
+```
 add file to git
 ```
 git add <file>
@@ -28,7 +34,12 @@ git push -u origin master
 git push
 git pull
 ```
-
+after u change something
+```
+git add <file>
+git commit -m 'comments'
+git push
+```
 put the name of the file u wannna ignore
 `touch .gitignore`
 branches
