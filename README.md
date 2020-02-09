@@ -41,7 +41,9 @@ git commit -m 'comments'
 git push
 ```
 put the name of the file u wannna ignore
-`touch .gitignore`
+```
+touch .gitignore
+```
 branches
 ```
 git checkout master
